@@ -1,5 +1,6 @@
 
 === Unbranded Portal Connector ===
+
 Built by [Unbranded Manchester](https://www.unbrandedmanchester.com/) for the [Unbranded Portal](https://www.unbrandedmanchester.com/portal/)
 
 
@@ -36,14 +37,6 @@ No, this is a free service that works alongside your portal account
 = Can I restrict user from seeing the logs in my portal account =
 
 Yes, just set the user permissions of each user as you wish
-
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
