@@ -1,5 +1,5 @@
-
-=== Unbranded Portal Connector ===
+Unbranded Portal Connector
+========
 
 Built by [Unbranded Manchester](https://www.unbrandedmanchester.com/) for the [Unbranded Portal](https://www.unbrandedmanchester.com/portal/)
 
@@ -7,7 +7,8 @@ Built by [Unbranded Manchester](https://www.unbrandedmanchester.com/) for the [U
 
 Log all of your user activity and report directly into your Unbranded Portal, without bloating your database. 
 
-== Description ==
+Description
+---
 
 Once you've signed up for your free Unbranded Portal account you can use this plugin to report all website activity log data straight into your account. 
 
@@ -17,7 +18,8 @@ By bypassing the Worpdress database we're able to ensure that your site size rem
 
 In our next update we'll be adding an plugin report to the Unbranded Portal to check if there any available security vulnerabilites in your installed plugins. 
 
-== Installation ==
+Installation
+---
 
 How to install the Activity Log to API Plugin
 
@@ -28,7 +30,8 @@ How to install the Activity Log to API Plugin
 1. Copy and paste your API Key and Project ID into the fields
 1. That's it, you're good to go, you will now see activity logs in your portal account
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+---
 
 = Do I need to pay for this plugin? =
 
